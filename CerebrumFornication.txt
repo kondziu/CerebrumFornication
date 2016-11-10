@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/lexer.cpp.o ./Debug/parser.cpp.o ./Debug/cg.cpp.o
